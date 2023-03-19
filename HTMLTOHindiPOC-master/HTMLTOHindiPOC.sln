@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTMLTOHindiPOC", "HTMLTOHindiPOC\HTMLTOHindiPOC.csproj", "{A2969A20-9D32-4B32-9282-19055ADC002F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2969A20-9D32-4B32-9282-19055ADC002F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2969A20-9D32-4B32-9282-19055ADC002F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2969A20-9D32-4B32-9282-19055ADC002F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2969A20-9D32-4B32-9282-19055ADC002F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52F74A2E-BCDA-4E34-8428-6A1FE4EA186A}
+	EndGlobalSection
+EndGlobal
